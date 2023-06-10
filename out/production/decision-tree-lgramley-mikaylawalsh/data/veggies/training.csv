@@ -1,0 +1,7 @@
+color,highProtein,calories,foodType
+orange,FALSE,high,fruit
+green,TRUE,low,vegetable
+green,FALSE,low,vegetable
+orange,FALSE,medium,vegetable
+yellow,TRUE,high,fruit
+orange,TRUE,high,vegetable
